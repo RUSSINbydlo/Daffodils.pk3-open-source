@@ -1,0 +1,3 @@
+startuptitle = "Daffodils.PK3"
+IWAD="doom2.wad"
+startupcolors = "FF8C32", "06113C"

@@ -1,0 +1,9 @@
+IWAD
+{
+	Name = "Daffodils.pk3"
+	BannerColors = "FF8C32", "06113C"
+	Autoname = "Daffodils.pk3"
+	Game = "Doom"
+	Config = "Doom"
+	IWADName = "Daffodils.ipk3"
+}

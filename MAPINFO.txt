@@ -1,0 +1,16 @@
+DoomEdNums
+{
+27089 = ColtSA
+15740 = DiscipleStatue1
+15741 = DiscipleStatue1
+15742 = DiscipleStatue1
+15743 = DiscipleStatue1
+}
+
+map MAP01 "Daffodils lol"
+{
+music = Music1
+sky1 = "OSKY40", 0.05
+nojump
+nocrouch
+}
